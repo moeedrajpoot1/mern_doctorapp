@@ -1,0 +1,35 @@
+.delete-button {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 4px;
+    border: 1px solid;
+    border-style: dotted;
+    border-radius: 7px;
+    background-color: #26a424;
+    color: white;
+}
+
+.delete-button:hover {
+    background-color: #ec1a1a; /* Light gray background color on hover */
+    border-radius: 4px;
+    color: black;
+}
+
+.read-button {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 4px;
+    border: 1px solid;
+    border-style: dotted;
+    border-radius: 7px;
+    background-color: #26a424;
+    color: white;
+   
+    
+}
+
+.read-button:hover {
+    background-color: #1dec1a; /* Light gray background color on hover */
+    border-radius: 4px;
+    color: white;
+}
